@@ -1,0 +1,32 @@
+.tit{
+	font-family: 'Concert One', cursive;
+	padding-top: 4cm;
+	font-size: 35px;
+	color: white; 
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.centrado{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.imagendefondo{
+	background: url("https://lh3.googleusercontent.com/proxy/Hvg3ZrGPR0GuEH8Htc-omTOvSmdT-Rj844NNtUvL4g6JrngwtKKeb5w3qdVVLL8OLe0WLt5SgHbto5fkWISkdtIBZnKtBhVYVCerrpbOvx4X-lxWzySH2m3rnKsiRxgTkubuX7Q");
+	background-size: cover;
+}
+
+.reg{
+	font-family: 'Arial Black', cursive;
+	box-shadow: 4px 4px 4px black;
+	background-color: #beebe9;
+}
+
+.on{
+	font-family: 'Arial Black', cursive;
+	font-size: 25px;
+	text-shadow: 4px 4px 4px gray;
+}
